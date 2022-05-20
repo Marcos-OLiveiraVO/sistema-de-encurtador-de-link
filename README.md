@@ -10,7 +10,7 @@
 - Hash criado pelo shortid.
 
 
-<h3> Que contem as Funcionalidades:  </h3>
+<h3> Funcionalidade:  </h3>
 
  -  Encurtar Links.
 
