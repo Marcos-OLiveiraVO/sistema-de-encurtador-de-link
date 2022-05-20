@@ -5,10 +5,15 @@
 
 <h4> Uma vez que foi adicionada uma URL, então seria gerada um hash feito pelo shortid, esse hash seria verificado  depois ele te redirecionaria para a url original.
 </h4>  
-  
+
+
+- hash criado pelo shortid.
+
+
 <h3> Funcionalidades </h3>
 
- -  Encurtar Links 
+ -  Encurtar Links.
+
 
 
 <h4> Projeto foi criado com as seguintes tecnologias: </h4>
