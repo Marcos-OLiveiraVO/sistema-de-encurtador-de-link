@@ -5,9 +5,9 @@
 
 <h4> Uma vez que foi adicionada uma URL, então seria gerada um hash feito pelo shortid, esse hash seria verificado  depois ele te redirecionaria para a url original.
 </h4>  
+<br>
 
-
-- hash criado pelo shortid.
+- Hash criado pelo shortid.
 
 
 <h3> Que contem as Funcionalidades:  </h3>
@@ -17,6 +17,7 @@
 
 
 <h4> Projeto foi criado com as seguintes tecnologias: </h4>
+
 
       -  Padrão de arquitetura MVC (Model-View-Controller)
       -  node.js
