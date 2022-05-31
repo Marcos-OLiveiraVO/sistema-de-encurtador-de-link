@@ -13,6 +13,8 @@
 <h3> Funcionalidade:  </h3>
 
  -  Encurtar Links.
+ -  Melhorar a visibilidade do link.
+ -  Possibilidade de ter Métricas pelos clicks.
 
 
 
