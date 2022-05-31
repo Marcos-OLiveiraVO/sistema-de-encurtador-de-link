@@ -1,7 +1,7 @@
 
 
 <h1> Sistema de encurtador de link</h1>
-<h3>A ideia desse projeto foi de criar  uma API onde o usuario iria colocar a URL original, e então seria gerada uma nova url encurtada, que te redicionaria para o mesmo link que a URL original te redicionaria.</h3>
+<h3>Encurtador de link onde o usuário coloca uma URL padrão de um website e então seria gerado uma nova URL encurtada, Melhorando a visibilidade e tendo a opção de observar quantos Clicks seu link obteve assim possibilitando acompanhar o nível de engajamento de suas publicações.</h3>
 
 <h4> Uma vez que foi adicionada uma URL, então seria gerada um hash feito pelo shortid, esse hash seria verificado  depois ele te redirecionaria para a url original.
 </h4>  
