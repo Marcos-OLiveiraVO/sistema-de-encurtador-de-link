@@ -10,7 +10,7 @@
 - Hash criado pelo shortid.
 
 
-<h3> Funcionalidade:  </h3>
+<h3> Funcionalidades:  </h3>
 
  -  Encurtar Links.
  -  Melhorar a visibilidade do link.
@@ -26,4 +26,5 @@
       -  Express
       -  shortid
       -  MongoDB
+    
       
